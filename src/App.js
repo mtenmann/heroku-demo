@@ -10,6 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <p>
                 Dette er en fin liten React App. Hohohoho
+                Tester automatic deployment!
           </p>
           <a
             className="App-link"
