@@ -12,6 +12,7 @@ class App extends Component {
                 Dette er en fin liten React App. Hohohoho
                 Tester automatic deployment!
                 Pull-request, yey.
+        ove var her
           </p>
           <a
             className="App-link"
